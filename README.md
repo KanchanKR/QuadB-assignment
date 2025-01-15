@@ -1,6 +1,6 @@
 # To-Do List App
 
-[**Live Demo**](https://your-deployment-link.com)
+[**Live Demo**]((https://todoapp-kkr.netlify.app/))
 
 This is a simple To-Do List application built with **React**, **Redux Toolkit**, and **Tailwind CSS**. The application allows users to add, toggle, and delete tasks. It fetches tasks from an external API and displays them on the user interface. The app supports both dark and light themes and includes a sidebar and navbar for a better user experience.
 
@@ -57,7 +57,7 @@ Ensure you have the following tools installed:
     yarn start
     ```
 
-5. The app will be available at [http://localhost:3000](http://localhost:3000).
+5. The app will be available at [http://localhost:3000](http://localhost:5173).
 
 ## Folder Structure
 
