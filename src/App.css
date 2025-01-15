@@ -1,0 +1,26 @@
+/* import { useState } from "react";
+
+
+import './App.css'
+import Navbar from './components/NavBar/Navbar'
+import Sidebar from './components/NavBar/Sidebar'
+
+
+function App({tasks}) {
+
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+
+  const toggleSidebar = () => setIsSidebarOpen(!isSidebarOpen);
+
+  return (
+    <div className="min-h-screen bg-gray-50">
+      {/* Navbar */}
+      /* <Navbar toggleSidebar={toggleSidebar} /> */
+
+      /* {Sidebar} */
+      /* {isSidebarOpen && <Sidebar tasks={tasks} />} */
+    /* </div> */
+  )
+}
+
+/* export default App */
